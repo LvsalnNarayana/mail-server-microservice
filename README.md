@@ -10,7 +10,6 @@ This microservice provides functionality to send emails, manage subscriptions, a
 - [API Endpoints](#api-endpoints)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -67,7 +66,5 @@ Contributions are welcome! Here's how you can contribute to this project:
 3. Make your changes and commit them: git commit -m "Add new feature".
 4. Push to the branch: git push origin feature/your-feature-name.
 5. Create a pull request describing your changes.
-   
-## License
-This project is licensed under the MIT License.
+
 
